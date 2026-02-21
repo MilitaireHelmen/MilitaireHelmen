@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> Helmet Belgian Model 49 FN - Commentaires</title>
+  <description>The first helmet I want to introduce is a Belgian Model 49 FN
+ 
+ 
+The second Belgium Model 49FN Army (2)
+ 
+This ABL helmet from 1952 manufactured by the company X.B.
+Xavier Buisset from Vilvoorde.
+AB = Armee Belge  (French)
+BL = Belgisch Leger (Dutch)
+both mean Belgian Armee
+
+
+</description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132567600" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132567178" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132414426" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-19732809138" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132567600">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132567600</link>
+		<dc:date>2018-01-02T14:07:56+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>ik zal nog eens nieuwe foto&#039;s moeten maken, op het moment dat ik deze maakte had ik geen idee wat voor en achter was?</description>
+		<content:encoded><![CDATA[
+			ik zal nog eens nieuwe foto&#039;s moeten maken, op het moment dat ik deze maakte had ik geen idee wat voor en achter was?
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132567178">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132567178</link>
+		<dc:date>2018-01-02T14:06:21+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>est un casque sous-apprécié</description>
+		<content:encoded><![CDATA[
+			est un casque sous-apprécié
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132414426">
+		<title>Commentaire de cedvdh</title>
+				<link>https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-20132414426</link>
+		<dc:date>2018-01-01T21:16:05+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>cedvdh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>joli:-)
+je l ai aussi celui la:-)</description>
+		<content:encoded><![CDATA[
+			joli:-)<br />
+je l ai aussi celui la:-)
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-19732809138">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3267026708_comment_1.html#c-19732809138</link>
+		<dc:date>2016-01-30T17:43:00+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Beautiful ! With 2WW British chinstrap! 
+For your information, national flag is on the left side of the helmet. 
+
+Thierry </description>
+		<content:encoded><![CDATA[
+			Beautiful ! With 2WW British chinstrap! <br />
+For your information, national flag is on the left side of the helmet. <br />
+<br />
+Thierry 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

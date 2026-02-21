@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> Belgian RECCE Helmet - Commentaires</title>
+  <description> 
+RECCE stands for reconnaissance
+This helmet is made based on the British MARK I RAC Helmet, Steel, Royal Armoured Corps.
+This ABL (Armee Belge, Belgisch Leger) helmet from 1952 manufactured by the company X.B. Xavier Buisset from Vilvoorde.
+  
+
+
+
+</description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267205658_comment_1.html#c-20215920398" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267205658_comment_1.html#c-20215920398">
+		<title>Commentaire de cedvdh</title>
+				<link>https://helmliefhebber.skyrock.com/3267205658_comment_1.html#c-20215920398</link>
+		<dc:date>2018-08-25T09:37:53+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>cedvdh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>un ptit genre de casque para allemand m38 :-)</description>
+		<content:encoded><![CDATA[
+			un ptit genre de casque para allemand m38 :-)
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

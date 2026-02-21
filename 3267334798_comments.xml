@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> Belgian Navy Helmet Model 51 - Commentaires</title>
+  <description>This is my newest addition to my collection. Its a Navy helmet made by an Austrian company.
+Don&#039;t know yet what the letters WWEU stand for. Thanks to a fellow helmet collector, Have a look at his blog www.casquescollection.skyrock.com
+ 
+I now know these letters stand for Ulbricht Witwe . This company still exists see: http://www.ulbrichts.com/protection/produkte/
+
+ZM/FN = ZeeMacht / Force navale
+</description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-20201278828" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-20132415614" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19733563488" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19733220112" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19732806248" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-20201278828">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-20201278828</link>
+		<dc:date>2018-07-13T23:20:58+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>C&#039;est vrai que l&#039;on ne s&#039;est jamais posé la question de la signification de ce WWEU? Ce ne serait pas le même fabricant autrichien du casque d&#039;acier uS (Witwe...Ulbricht ?) Thierry </description>
+		<content:encoded><![CDATA[
+			C&#039;est vrai que l&#039;on ne s&#039;est jamais posé la question de la signification de ce WWEU? Ce ne serait pas le même fabricant autrichien du casque d&#039;acier uS (Witwe...Ulbricht ?) Thierry 
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-20132415614">
+		<title>Commentaire de cedvdh</title>
+				<link>https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-20132415614</link>
+		<dc:date>2018-01-01T21:19:23+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>cedvdh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>nice!</description>
+		<content:encoded><![CDATA[
+			nice!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19733563488">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19733563488</link>
+		<dc:date>2016-01-31T16:18:52+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Graag gedaan ! You are welcome !</description>
+		<content:encoded><![CDATA[
+			Graag gedaan ! You are welcome !
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19733220112">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19733220112</link>
+		<dc:date>2016-01-31T09:30:07+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Thanks for the information, these little pieces of information is one aspect of helmet collecting I really love.</description>
+		<content:encoded><![CDATA[
+			Thanks for the information, these little pieces of information is one aspect of helmet collecting I really love.
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19732806248">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3267334798_comment_1.html#c-19732806248</link>
+		<dc:date>2016-01-30T17:39:26+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Hello !
+
+These letters stand for Ulbricht Witwe ..... (Austrian company) !
+
+Have a look on my blog www.casquescollection.skyrock.com 
+In French .... but as you are fluent in this language ! No problem, I suppose! </description>
+		<content:encoded><![CDATA[
+			Hello !<br />
+<br />
+These letters stand for Ulbricht Witwe ..... (Austrian company) !<br />
+<br />
+Have a look on my blog www.casquescollection.skyrock.com <br />
+In French .... but as you are fluent in this language ! No problem, I suppose! 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> Belgian Helmet MKIII - Commentaires</title>
+  <description>
+
+
+
+This helmet is made after the British MKIII, this helm is made by the company Sartel, more information about this helmet is welcom </description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20372574330" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20372403386" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20132414628" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19835197004" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19833950666" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19775170006" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19732811102" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20372574330">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20372574330</link>
+		<dc:date>2020-01-06T21:49:32+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>bonjour Ced
+ça va bien, merci
+J&#039;espère aussi avec toi
+meilleurs voeux pour 2020
+beaucoup de plaisir avec ton collection
+
+Bertie</description>
+		<content:encoded><![CDATA[
+			bonjour Ced<br />
+ça va bien, merci<br />
+J&#039;espère aussi avec toi<br />
+meilleurs voeux pour 2020<br />
+beaucoup de plaisir avec ton collection<br />
+<br />
+Bertie
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20372403386">
+		<title>Commentaire de cedvdh</title>
+				<link>https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20372403386</link>
+		<dc:date>2020-01-06T11:38:42+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>cedvdh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Salut Bertie,tu vas bien&#128513;&#128077; 
+Bonne année et de bonnes rentrées&#128513;&#128513; 
+A bientôt !
+Ced</description>
+		<content:encoded><![CDATA[
+			Salut Bertie,tu vas bien&#128513;&#128077; <br />
+Bonne année et de bonnes rentrées&#128513;&#128513; <br />
+A bientôt !<br />
+Ced
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20132414628">
+		<title>Commentaire de cedvdh</title>
+				<link>https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-20132414628</link>
+		<dc:date>2018-01-01T21:16:39+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>cedvdh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>bel état!</description>
+		<content:encoded><![CDATA[
+			bel état!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19835197004">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19835197004</link>
+		<dc:date>2016-06-12T18:54:14+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Thank you, I got lucky in finding this one, since it&#8217;s not so common most people won&#8217;t recognize it. I Like Belgian helmets a lot.</description>
+		<content:encoded><![CDATA[
+			Thank you, I got lucky in finding this one, since it&#8217;s not so common most people won&#8217;t recognize it. I Like Belgian helmets a lot.
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19833950666">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19833950666</link>
+		<dc:date>2016-06-10T22:41:29+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Very nice helmet ! Not so common ! Thierry </description>
+		<content:encoded><![CDATA[
+			Very nice helmet ! Not so common ! Thierry 
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19775170006">
+		<title>Commentaire de Ashyline</title>
+				<link>https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19775170006</link>
+		<dc:date>2016-03-24T17:30:18+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Ashyline</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>The stuff in this blog is in not only incredible but also providing the great knowledge to the  people.  http://motorcycleroom.com/best-motorcycle-helmet/</description>
+		<content:encoded><![CDATA[
+			The stuff in this blog is in not only incredible but also providing the great knowledge to the  people.  http://motorcycleroom.com/best-motorcycle-helmet/
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19732811102">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3267150430_comment_1.html#c-19732811102</link>
+		<dc:date>2016-01-30T17:45:35+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>This MkIII Belgian &quot;clone&quot; of the British Mk III was only manufactured by Sartel in 1951. (or 52 ? Don&#039;t remember by heart! ) 
+No additional info available.
+Thierry </description>
+		<content:encoded><![CDATA[
+			This MkIII Belgian &quot;clone&quot; of the British Mk III was only manufactured by Sartel in 1951. (or 52 ? Don&#039;t remember by heart! ) <br />
+No additional info available.<br />
+Thierry 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

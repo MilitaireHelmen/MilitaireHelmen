@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> Restoration of a German M40 helmet Part 3 - Commentaires</title>
+  <description>After the holes were welded I removed as much as possible the remaining rust by sanding the helm. I know that German helmets have a lot number stamped in to it so I was very careful around the area where I expected this number and I found the number 3022:
+
+
+I could not find the manufacturer code.
+The remaining rust was removed with HG Roestoplosser.
+contains :
+orthophosphoric acid and propaan-2-ol and Isotridecanol, ethoxylated
+www.rustbuster.nl
+
+The dark spots are rain drops</description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>

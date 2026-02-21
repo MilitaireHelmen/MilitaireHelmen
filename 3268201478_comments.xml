@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> Belgian Helmet for motordrivers ±1938 - Commentaires</title>
+  <description> 
+These are pictures from a Belgian pre WW2 motordriver helmet, this model is from around 1938, for additional information see: http://www.abbl1940.be/ABBL1940files/Hoofddeksels/Helm/HelmmotorrijderNL.htm
+This helmet was found on an attic of an old house we renovated.
+
+
+Inside of the helmet;
+
+ 
+/
+The picture below is taken at the Bastogne Barracks and it shows a very rare brown M38 helmet:
+Thanks to Koen JV
+</description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20436740388" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20436176938" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132600718" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132569724" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132416002" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132391142" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-19732807774" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20436740388">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20436740388</link>
+		<dc:date>2020-06-02T12:06:33+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>bonjour fafage, intéressant, vous n&#039;avez pas de photo de cette époque? </description>
+		<content:encoded><![CDATA[
+			bonjour fafage, intéressant, vous n&#039;avez pas de photo de cette époque? 
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20436176938">
+		<title>Commentaire de fafage</title>
+				<link>https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20436176938</link>
+		<dc:date>2020-06-01T09:30:36+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>fafage</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>mon père a porté un tel casque.&#8230;.</description>
+		<content:encoded><![CDATA[
+			mon père a porté un tel casque.&#8230;.
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132600718">
+		<title>Commentaire de cedvdh</title>
+				<link>https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132600718</link>
+		<dc:date>2018-01-02T16:15:01+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>cedvdh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Franchement,une superbe pièce pas courante! Manque plus que le mannequin&#128077;</description>
+		<content:encoded><![CDATA[
+			Franchement,une superbe pièce pas courante! Manque plus que le mannequin&#128077;
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132569724">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132569724</link>
+		<dc:date>2018-01-02T14:17:18+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>merci, j&#039;ai eu de la chance</description>
+		<content:encoded><![CDATA[
+			merci, j&#039;ai eu de la chance
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132416002">
+		<title>Commentaire de cedvdh</title>
+				<link>https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132416002</link>
+		<dc:date>2018-01-01T21:20:23+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>cedvdh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>waouw!!! magnifique!</description>
+		<content:encoded><![CDATA[
+			waouw!!! magnifique!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132391142">
+		<title>Commentaire de Briquets-Poilus</title>
+				<link>https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-20132391142</link>
+		<dc:date>2018-01-01T20:07:19+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Briquets-Poilus</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Très beau casque !!!!! Bravo!</description>
+		<content:encoded><![CDATA[
+			Très beau casque !!!!! Bravo!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-19732807774">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3268201478_comment_1.html#c-19732807774</link>
+		<dc:date>2016-01-30T17:41:28+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Beautiful ! And very rare in this first class condition !
+Thierry </description>
+		<content:encoded><![CDATA[
+			Beautiful ! And very rare in this first class condition !<br />
+Thierry 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> Continued Belgian Model 31 Adrian - Commentaires</title>
+  <description>These pictures show the cleaned Belgian Adrian Helmet M31, the black paint is removed.</description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-20132569140" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-20132415360" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19835591362" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19835193996" />
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19833952338" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-20132569140">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-20132569140</link>
+		<dc:date>2018-01-02T14:14:44+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>J&#039;ai changé un casque que personne ne voulait</description>
+		<content:encoded><![CDATA[
+			J&#039;ai changé un casque que personne ne voulait
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-20132415360">
+		<title>Commentaire de cedvdh</title>
+				<link>https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-20132415360</link>
+		<dc:date>2018-01-01T21:18:37+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>cedvdh</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>yesss! better like that!!</description>
+		<content:encoded><![CDATA[
+			yesss! better like that!!
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19835591362">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19835591362</link>
+		<dc:date>2016-06-13T10:57:31+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Thanks a lot ! For sure it helps! </description>
+		<content:encoded><![CDATA[
+			Thanks a lot ! For sure it helps! 
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19835193996">
+		<title>Commentaire de Helmliefhebber</title>
+				<link>https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19835193996</link>
+		<dc:date>2016-06-12T18:49:57+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>Helmliefhebber</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>The black paint was in a very poor condition, lucky for me it didn&#8217;t stick very well to the green paint.
+I used paint remover from Alabastine, I also used acetone and thinner to remove the black paint.
+One has to be very careful with the paint remover, if you leave it on the helmet to long you can wipe of all the paint at once. Before I used the paint remover on this helmet I spent time practicing the use of alabastine on other things like furniture and garden fence. I left the paint remover on the helmet just long enough to soften the black paint then I used a cloth soaked in acetone or thinner to wipe of the paint. This is a very time consuming process and it takes a lot of patience. I would spent no more than half an hour working on the helmet each time. I hope this helps.</description>
+		<content:encoded><![CDATA[
+			The black paint was in a very poor condition, lucky for me it didn&#8217;t stick very well to the green paint.<br />
+I used paint remover from Alabastine, I also used acetone and thinner to remove the black paint.<br />
+One has to be very careful with the paint remover, if you leave it on the helmet to long you can wipe of all the paint at once. Before I used the paint remover on this helmet I spent time practicing the use of alabastine on other things like furniture and garden fence. I left the paint remover on the helmet just long enough to soften the black paint then I used a cloth soaked in acetone or thinner to wipe of the paint. This is a very time consuming process and it takes a lot of patience. I would spent no more than half an hour working on the helmet each time. I hope this helps.
+		]]></content:encoded>
+	    </item>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19833952338">
+		<title>Commentaire de CasquesCollection</title>
+				<link>https://helmliefhebber.skyrock.com/3269115098_comment_1.html#c-19833952338</link>
+		<dc:date>2016-06-10T22:43:41+02:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>CasquesCollection</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>Very nice result !! How did you mange to get rid of the black paint without removing the kaki paint ? </description>
+		<content:encoded><![CDATA[
+			Very nice result !! How did you mange to get rid of the black paint without removing the kaki paint ? 
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>

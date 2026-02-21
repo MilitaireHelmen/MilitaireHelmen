@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> USA M1 helmet Vietnam era? - Commentaires</title>
+  <description>
+This helmet was offered as an USA M1 helmet from the Vietnam era?
+
+ 
+But seeing this picture I knew this is not an American M1 from the Vietnam era.
+Check how the chinstrap is connected to the outer shell, like the ww2 helmet the straps are stitched to the loops, however the color of the straps is to dark for the ww2 helmets, see this web side for dating a M1 helmet:
+http://nuke.combat-helmets.com/WorldWarII/USA/DatingM1/tabid/287/Default.aspx
+
+ 
+So if it&#039;s not an American M1 what else is it?
+I recognized it as a German Model 56 or &quot;zweiteilige Stahlhelm&quot; . For a very interesting and detailed history go to this webside: http://world-war-helmets.com/fiche.php?q=Casque-Ouest-Allemand-Modell-56
+
+
+ 
+
+ 
+
+The letters inside the liner H.R.N. mean Hans Römer, Neu Ulm en 1958
+
+ 
+ 
+List of Helmets
+ </description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+    	<rdf:li rdf:resource="https://helmliefhebber.skyrock.com/3271511638_comment_1.html#c-20142631160" />
+      </rdf:Seq>
+  </items>
+</channel>
+    	    <item rdf:about="https://helmliefhebber.skyrock.com/3271511638_comment_1.html#c-20142631160">
+		<title>Commentaire de alice515</title>
+				<link>https://helmliefhebber.skyrock.com/3271511638_comment_1.html#c-20142631160</link>
+		<dc:date>2018-02-03T05:21:20+01:00</dc:date>
+		<dc:language>en</dc:language>
+		<dc:creator>alice515</dc:creator>
+		<dc:subject>Skyrock Blog</dc:subject>
+		<description>This article is actually remarkable one it helps many new users that desire to read always the best stuff. https://steemit.com/instagram/@mullerlukacs/how-to-market-your-business-on-instagram-and-fast-instagram-followers</description>
+		<content:encoded><![CDATA[
+			This article is actually remarkable one it helps many new users that desire to read always the best stuff. https://steemit.com/instagram/@mullerlukacs/how-to-market-your-business-on-instagram-and-fast-instagram-followers
+		]]></content:encoded>
+	    </item>
+    </rdf:RDF>
