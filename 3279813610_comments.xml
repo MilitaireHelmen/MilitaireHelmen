@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://helmliefhebber.skyrock.com/">
+  <title> German M35 Helmet  - Commentaires</title>
+  <description> 
+This is a German M35 helmet. When I got it in my possession it had a strange liner. This helmet also has 2  little holes in the front.
+I have posted a question on the world war helmets forum to find out about this helmet, see:
+http://www.world-war-helmets.com/forum/index.php?showtopic=6146
+ 
+ 
+I found a lot of information on https://germanhelmetvault.com/
+ 
+Another interesting website: https://www.forum-historicum.de/pickelhaube-und-stahlhelm.html
+
+These holes are possibly made after the war to install an emblem, it&#039;s possible this helmet has been used by a Czech fire brigade.
+Like this on in cascomundi&#039;s blog http://cascomundi.skyrock.com/photo.html?id_article=3311928360&amp;id_article_media=63777997
+
+The picture below shows the strange liner, trough the same forum I found out this liner is from a Belgium FN49 helmet.
+
+
+This picture shows the ET62 inscription,
+ET is the manufacturer Eisenhüttenwerke, the factory was located at Thale.
+62 = the size of the helmet.
+
+The picture above shows this helmet is a M35, the air vent hole is finished with a ring pressed in to it.
+The picture below shows the liner installed. This is the reproduction liner that didn&#039;t fit into the M40.
+
+ 
+ 
+Return to List of Helmets</description>
+  <link>https://helmliefhebber.skyrock.com/</link>
+  <dc:language>fr</dc:language>
+  <dc:creator>Helmliefhebber</dc:creator>
+  <dc:rights></dc:rights>
+  <dc:date>2023-07-09T13:22:17+02:00</dc:date>
+  <admin:generatorAgent rdf:resource="https://www.skyrock.com/" />
+
+  <sy:updatePeriod>daily</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <sy:updateBase>2023-07-09T13:22:17+02:00</sy:updateBase>
+
+  <items>
+  <rdf:Seq>
+      </rdf:Seq>
+  </items>
+</channel>
+    </rdf:RDF>
