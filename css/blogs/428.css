@@ -1,0 +1,238 @@
+/* Theme Old Pink */
+/* THEME Deux colonnes */
+
+@import url(../../css-1);
+
+
+/* Mise en page et marges */
+.centry .bloc-description {
+    width: 692px !important;
+}
+
+.centry_large .bloc-description, .centry_thumbs .bloc-description {
+    width: 960px !important;
+}
+
+
+.audioPlayer.bloc {
+    padding-bottom: 20px;
+}
+
+.centry h2.bloc_title, .centry h1.bloc_title, .centry.content_slim .blogtitle, .centry.content_slim .description {
+    padding: 0 50px;
+}
+
+h2.bloc_title, h1.bloc_title, .blogtitle {
+    padding-bottom: 70px !important;
+}
+.sidebar_one h2.bloc_title, .sidebar_one h1.bloc_title {
+    padding: 10px 10px 70px;
+}
+.centry_thumbs #articles_container h2.bloc_title, .centry_thumbs #articles_container h1.bloc_title {
+    padding: 0 0 0 10px !important;
+    margin-bottom: 0 !important;
+}
+.sidebar_one .blogtitle {
+    padding: 0 10px 70px;
+}
+
+.bloc, .bloc-description {
+    margin-bottom: 20px !important;
+}
+
+.centry .article_bottom {
+    padding: 0 50px;
+}
+
+.sidebar-info-bloc {
+    padding-top: 50px !important;
+    padding-bottom: 10px !important;
+}
+.sidebar_two .sidebar-info-bloc {
+    padding-top: 10px !important;
+    padding-bottom: 50px !important;
+}
+
+
+.bloc .post {
+    padding-bottom: 20px !important;
+}
+.centry_thumbs #articles_container .bloc .post {
+    padding-bottom: 0px !important;
+}
+/* Arrondis et ombres */
+.thumbs_infos {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.sidebar, .bloc, .bloc-description {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+
+    -webkit-box-shadow: inset 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: inset 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: inset 0px 2px 2px 0px rgba(0, 0, 0, 0.15); 
+}
+.sidebar .phylactere {
+    -webkit-box-shadow: 0px 1px 1px 0px rgba(255, 255, 255, 0.6), inset 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 1px 1px 0px rgba(255, 255, 255, 0.6), inset 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 1px 1px 0px rgba(255, 255, 255, 0.6), inset 0px 2px 2px 0px rgba(0, 0, 0, 0.15); 
+}
+.bloc .post {
+    -webkit-box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.5);
+    -moz-box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.5); 
+}
+.centry_thumbs .bloc .post, .sidebar_two .sidebar { /* ANNULE LES OMBRES */
+    -webkit-box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0);
+    -moz-box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0);
+    box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0); 
+}
+.sidebar_two .sidebar {
+    -webkit-border-top-left-radius: 0;
+    -moz-border-radius-topleft: 0;
+    border-top-left-radius: 0;
+    -webkit-border-top-right-radius: 0;
+    -moz-border-radius-topright: 0;
+    border-top-right-radius: 0;
+}
+/* Fonts */
+.bloc_title, .blogpseudo, .blogtitle {
+    font-family: 'Imprima', sans-serif;
+    font-weight: normal;
+}
+
+h2.bloc_title, h1.bloc_title {
+    font-size: 24px;
+    text-align: left;
+}
+.blogtitle {
+    font-size: 30px;
+}
+.blogpseudo {
+    font-size: 22px !important;
+    line-height: 20px
+}
+.blogpseudo a {
+    text-decoration: none;
+}
+
+/* Backgrounds */
+.consult {
+    background: #955566 url(../../img/templates/blogs/428/bg.jpg) fixed left top repeat-x;
+}
+
+h1.bloc_title, h2.bloc_title, .blogtitle {
+    background: transparent url(../../img/templates/blogs/428/article_titre.png) center bottom no-repeat;
+}
+.pop {
+    background: #e8dbd2;
+}
+
+.sidebar, #currentbp a , .bloc, .bloc-description {
+    background: #e8dbd2;
+}
+
+.compteurs_block li, .section_box, .title_tooltip, .phylactere, #changebp a {
+    background: #f1e8df;
+}
+
+#promos_ads h2, #load-more a, .shared_content {
+    background: transparent;
+}
+
+
+.sidebar-info-bloc {
+    background: transparent url(../../img/templates/blogs/428/sidebar_img.png) center top no-repeat;
+}
+.sidebar_two .sidebar-info-bloc {
+    background: transparent url(../../img/templates/blogs/428/sidebar_img.png) center bottom no-repeat;
+}
+
+/* Borders */
+.sidebar, #barleft.sidebar .bloc-description, #currentbp a, #changebp a {
+    border-color: #602939 !important;
+}
+#promos_ads {
+    border-color: transparent !important;
+}
+.phylactere {
+    border-color: #bcab9f;
+}
+.liste-actions-centry li + li {
+    border-top: 1px solid #f8f4f2;
+    border-bottom: 1px solid #cbb5a6;
+}
+.liste-actions-centry li:first-child {
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid #cbb5a6;
+}
+.liste-actions-centry li:last-child {
+    border-top: 1px solid #f8f4f2;
+    border-bottom: 1px solid transparent;
+}
+
+.bloc .post {
+    border-bottom: 1px solid #cbb5a6;
+}
+.centry_thumbs .bloc .post {
+    border-bottom: none;
+}
+
+
+.title_tooltip .pointe_border {
+    border-top-color: #f1e8df;
+}
+.sidebar-info-bloc {
+    border: none !important;
+}
+
+/* Link & Colours */
+.blogtitle, .bloc a:hover, .sidebar a:hover, #currentbp a, .pagination a:hover {
+    color: #5b4860;/* violet */
+}
+.bloc a, .blogpseudo a, .sidebar a, .pagination li.current a, .section_box, .compteurs_block, .compteurs_block a, #changebp a, .sidebar .section_box a:hover, .suite, .suite a {
+    color: #c75572;/* rose layette */
+}
+.date, .date a, .dates {
+    color: #cf8959;/* orange */
+}
+
+.consult, .bloc, .sidebar, .pop, .phylactere, .compteurs_block li a:hover, .bloc-description, .pagination a, .phylactere a, .bloc_title a:hover  {
+    color: #6d4a39;/* marron */
+}
+.bloc_title, .bloc_title a {
+    color: #5b4860;/* violet */
+}
+
+#load-more a, #menuTime li {
+    color: #6d4a39;
+}
+.title_tooltip, .title_tooltip:hover {/* pour le titre archives, overridé par .bloc a */
+    color: #6d4a39 !important;
+}
+
+
+/* Nouveaux ciblages pour les bulles de MOOD */
+.phylactere.top_left .pointe_border {
+    border-bottom-color: #bcab9f;
+}
+.phylactere.top_left .pointe_bg {
+    border-bottom-color: #f1e8df;
+}
+.phylactere.left .pointe_border {
+    border-right-color: #bcab9f;
+}
+.phylactere.left .pointe_bg {
+    border-right-color: #f1e8df;
+}
+.righty .phylactere.left .pointe_border,
+.righty_one.content_large .phylactere.left .pointe_border {
+    border-left-color: #bcab9f;
+}
+.righty .phylactere.left .pointe_bg,
+.righty_one.content_large .phylactere.left .pointe_bg {
+    border-left-color: #f1e8df;
+}
